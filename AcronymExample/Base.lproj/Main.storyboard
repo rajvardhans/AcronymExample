@@ -187,6 +187,24 @@
             </objects>
             <point key="canvasLocation" x="1797.5999999999999" y="-559.07046476761627"/>
         </scene>
+        <!--Sample Table Table View Controller-->
+        <scene sceneID="RzX-oL-VrH">
+            <objects>
+                <viewController id="fJY-JL-xmL" customClass="sampleTableTableViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="kfm-Sb-vyG"/>
+                        <viewControllerLayoutGuide type="bottom" id="kQi-oL-E5m"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="bX6-kW-ir5">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Rnr-f4-z0Q" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2585" y="-590"/>
+        </scene>
         <!--View Controller-->
         <scene sceneID="HMc-1J-E48">
             <objects>
@@ -227,7 +245,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="gwb-ZR-nuz" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2594.4000000000001" y="-542.87856071964018"/>
+            <point key="canvasLocation" x="3324" y="-591"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="hTX-Jm-8lU">
